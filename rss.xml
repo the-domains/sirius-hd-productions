@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[SIRIUS HD PRODUCTIONS]]></title>
+        <description><![CDATA[SIRIUS HD PRODUCTIONS]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 23 Jul 2016 14:36:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fashion 2]]></title>
+            <description><![CDATA[<article><h1>Fashion 2</h1><p>Behind the scenes fashion shoot Blarney castle (2nd cam unit) BMPCC & Panasonic 12-35, edited on fcpx with ColorFinale</p></article>]]></description>
+            <link>https://vimeo.com/145640090</link>
+            <guid isPermaLink="false">6cfa07e4-3bff-435e-91f9-c06b3551584e</guid>
+            <pubDate>Sat, 23 Jul 2016 14:36:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
