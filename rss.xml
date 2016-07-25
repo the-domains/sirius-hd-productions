@@ -4,21 +4,21 @@
         <description><![CDATA[SIRIUS HD PRODUCTIONS]]></description>
         <link>http://siriushd.ie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jul 2016 14:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2016 13:56:36 GMT</lastBuildDate>
         <atom:link href="http://siriushd.ie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Fashion ]]></title>
+            <description><![CDATA[<article><h1>Fashion </h1><p>Behind the scenes fashion shoot Blarney castle (2nd cam unit) BMPCC & Panasonic 12-35, edited on fcpx with ColorFinale</p></article>]]></description>
+            <link>https://vimeo.com/145640090</link>
+            <guid isPermaLink="false">6cfa07e4-3bff-435e-91f9-c06b3551584e</guid>
+            <pubDate>Mon, 25 Jul 2016 13:56:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fashion 2]]></title>
             <description><![CDATA[<article><h1>Fashion 2</h1><p>Behind the scenes fashion shoot Blarney castle (2nd cam unit) BMPCC & Panasonic 12-35, edited on fcpx with ColorFinale</p></article>]]></description>
             <link>https://vimeo.com/145640090</link>
             <guid isPermaLink="false">dc9fb20c-181b-4bed-bec2-8d05d01131c4</guid>
             <pubDate>Sat, 23 Jul 2016 14:38:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fashion 2]]></title>
-            <description><![CDATA[<article><h1>Fashion 2</h1><p>Behind the scenes fashion shoot Blarney castle (2nd cam unit) BMPCC & Panasonic 12-35, edited on fcpx with ColorFinale</p></article>]]></description>
-            <link>https://vimeo.com/145640090</link>
-            <guid isPermaLink="false">6cfa07e4-3bff-435e-91f9-c06b3551584e</guid>
-            <pubDate>Sat, 23 Jul 2016 14:36:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
