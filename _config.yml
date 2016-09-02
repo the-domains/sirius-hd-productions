@@ -1,4 +1,3 @@
-layout_spectrum: 0.6256351293995976
 typography_spectrum: 0.15049854689277709
 color:
   brandStrength: 0.6409081295132637
@@ -11,8 +10,9 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-name: SIRIUS HD PRODUCTIONS
+layout_spectrum: 0.6256351293995976
 author:
   name: TONY
   email: siriushdproductions@gmail.com
   url: siriushd.ie
+name: SIRIUS HD PRODUCTIONS
